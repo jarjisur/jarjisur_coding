@@ -1,3 +1,3 @@
 # jarjisur_coding
-this is my first repository
+this is my first repository.
 Author - Jarjisur
